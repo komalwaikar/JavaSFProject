@@ -1,5 +1,8 @@
 Welcome to git....
 
-Change: to fix bug1 
+Change: to fix bug1.
 
-Change: teammate change for WI3
+Change: teammate change for WI3.
+
+Change: to fix bug2.
+
