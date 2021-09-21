@@ -1,10 +1,14 @@
 Welcome to git....
 
-Change : to fix bug1.
 
-Change : teammate change for WI3.
+Change :- to fix bug1.
 
-Change : to fix bug2.
+Change :- teammate change for WI3.
 
-Change : change by teammate for WI4 and space.
+Change :- to fix bug2.
+
+Change :- change by teammate for WI4 and space.
+
+Change :- change for CR1 and -.
+
 
